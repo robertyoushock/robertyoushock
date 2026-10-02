@@ -1,6 +1,6 @@
 ## Hi, I'm Robert
 
-**Motion/UI designer in Denver, working where motion, maps and meaning meet.**
+**Creative technologist in Denver, working where motion, maps and code meet.**
 
 I blend motion, UX/UI, and emerging technologies to craft story-driven visuals. I've spent six years in design, from broadcast graphics to data visualization, turning complex ideas into design that's intuitive and has impact. Today I'm an Emerging Technologies Designer at TEGNA.
 
@@ -23,7 +23,23 @@ A phone-first web app for two people to keep a top 10 in every food category, pl
 
 Vanilla JS · Cloudflare Pages + D1 · MapLibre · $0 a month
 
-[Project page](https://github.com/robertyoushock/our-places-showcase) · [Try the demo](https://eats.robertyoushock.com/?demo)
+[Project page](https://github.com/robertyoushock/our-places-showcase) · [Try the demo](https://eats.robertyoushock.com/?demo) · [Case study](https://www.robertyoushock.com/portfolio/our-places/)
+
+</td>
+</tr>
+<tr>
+<td width="46%">
+<a href="https://www.robertyoushock.com/portfolio/cairn/"><img src="img/cairn.jpg" alt="Cairn: a search panel beside a map of Colorado school districts" width="100%"></a>
+</td>
+<td>
+
+**[Cairn](https://github.com/robertyoushock/Cairn)**
+
+A free web tool for finding a US map boundary in plain words, checking it on the map, and downloading it for Google Earth, a GPS watch or mapping software. It's built for people who have never opened ArcGIS.
+
+Vanilla JS · MapLibre · No server · KML, KMZ, GPX, GeoJSON · $0 a month
+
+[Code](https://github.com/robertyoushock/Cairn) · [Open Cairn](https://robertyoushock.com/cairn/) · [Case study](https://www.robertyoushock.com/portfolio/cairn/)
 
 </td>
 </tr>
